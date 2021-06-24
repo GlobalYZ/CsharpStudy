@@ -1,0 +1,13 @@
+E:/vs workspace/学习c sharp编程/001-我们的第一个c sharp程序/bin/Debug/001-我们的第一个c sharp程序.exe.config
+E:/vs workspace/学习c sharp编程/001-我们的第一个c sharp程序/bin/Debug/001-我们的第一个c sharp程序.exe
+E:/vs workspace/学习c sharp编程/001-我们的第一个c sharp程序/bin/Debug/001-我们的第一个c sharp程序.pdb
+E:/vs workspace/学习c sharp编程/001-我们的第一个c sharp程序/obj/Debug/001-我们的第一个c sharp程序.exe
+E:/vs workspace/学习c sharp编程/001-我们的第一个c sharp程序/obj/Debug/001-我们的第一个c sharp程序.pdb
+E:/vs workspace/学习c sharp编程/001-我们的第一个c sharp程序/obj/Debug/001-我们的第一个c sharp程序.csprojResolveAssemblyReference.cache
+/Users/globalyz/Desktop/OneDrive - w.n.t/学习资料/ULessons/第一季 SIKIC#初级教程 (2015版)/源码/学习c sharp编程/001-我们的第一个c sharp程序/bin/Debug/001-我们的第一个c sharp程序.exe.config
+/Users/globalyz/Desktop/OneDrive - w.n.t/学习资料/ULessons/第一季 SIKIC#初级教程 (2015版)/源码/学习c sharp编程/001-我们的第一个c sharp程序/bin/Debug/001-我们的第一个c sharp程序.exe
+/Users/globalyz/Desktop/OneDrive - w.n.t/学习资料/ULessons/第一季 SIKIC#初级教程 (2015版)/源码/学习c sharp编程/001-我们的第一个c sharp程序/bin/Debug/001-我们的第一个c sharp程序.pdb
+/Users/globalyz/Desktop/OneDrive - w.n.t/学习资料/ULessons/第一季 SIKIC#初级教程 (2015版)/源码/学习c sharp编程/001-我们的第一个c sharp程序/obj/Debug/001-我们的第一个c sharp程序.csproj.AssemblyReference.cache
+/Users/globalyz/Desktop/OneDrive - w.n.t/学习资料/ULessons/第一季 SIKIC#初级教程 (2015版)/源码/学习c sharp编程/001-我们的第一个c sharp程序/obj/Debug/001-我们的第一个c sharp程序.csproj.CoreCompileInputs.cache
+/Users/globalyz/Desktop/OneDrive - w.n.t/学习资料/ULessons/第一季 SIKIC#初级教程 (2015版)/源码/学习c sharp编程/001-我们的第一个c sharp程序/obj/Debug/001-我们的第一个c sharp程序.exe
+/Users/globalyz/Desktop/OneDrive - w.n.t/学习资料/ULessons/第一季 SIKIC#初级教程 (2015版)/源码/学习c sharp编程/001-我们的第一个c sharp程序/obj/Debug/001-我们的第一个c sharp程序.pdb

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{6DF6D1B9-FD80-4D88-AF3C-E3B1867A65E8}|Default">
+  <MonoDevelop.Ide.ItemProperties.001-我们的第一个c_220sharp程序 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="005-在字符串前面加上@字符/Program.cs">
+    <Files>
+      <File FileName="029-goto和return来跳出循环/Program.cs" Line="29" Column="40" />
+      <File FileName="005-在字符串前面加上@字符/Program.cs" Line="12" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="学习c sharp编程" expanded="True">
+            <Node name="005-在字符串前面加上@字符" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.029-goto和return来跳出循环 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.027-循环的终止break PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
